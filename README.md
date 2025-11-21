@@ -1,2 +1,2 @@
 # Snake-Game
-Mini project
+# Mini project
