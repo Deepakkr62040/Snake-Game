@@ -1,2 +1,4 @@
 # Snake-Game
-# Mini project
+Mini project
+Language = Java
+Tools = NetBeans
